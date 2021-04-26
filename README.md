@@ -1,3 +1,3 @@
 # mhw3
-![](\WRC.gif)
-![](\WRC1.gif)
+![](WRC.gif)
+![](WRC1.gif)
